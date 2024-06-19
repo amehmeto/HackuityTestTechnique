@@ -1,0 +1,17 @@
+{
+  "name": "recruitment-exercise-front-dev",
+  "license": "UNLICENSED",
+  "private": true,
+  "author": "Hackuity",
+  "version": "0.0.1",
+  "description": "xxx",
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "prettier": "^1.17.1",
+    "react-scripts": "^3.0.1",
+    "typescript": "^3.5.1"
+  },
+  "scripts": {
+    "test": "react-scripts test"
+  }
+}
